@@ -1,0 +1,6 @@
+{
+  "name": "Paralegal Digital — Plataforma Jurídica Integrada",
+  "description": "Plataforma jurídica brasileira de gestão de casos, inteligência jurídica rastreável, monitoramento de publicações e geração documental determinística.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
